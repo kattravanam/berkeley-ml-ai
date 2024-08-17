@@ -37,7 +37,7 @@ The next steps in the project involve improving model performance through advanc
 
 #### <ins>Outline of project</ins>
 
-- Dataset (
-- Notebook (
+- [Dataset](https://github.com/kattravanam/berkeley-ml-ai/blob/main/capstone_2/data/Heart_disease_cleveland_new.csv) 
+- [Notebook](https://github.com/kattravanam/berkeley-ml-ai/blob/main/capstone_2/prompt.ipynb)
 
 
